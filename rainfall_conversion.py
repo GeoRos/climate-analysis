@@ -1,11 +1,13 @@
 """ A library to perform rainfall unit conversions """
 
-def inches_to_mm(inches)
-"""Convert inches to mm.
+def inches_to_mm(inches):
+    """Convert inches to mm.
 
-Arguments:
-inches -- the rainfall in inches
-"""
+    Arguments:
+    inches -- the rainfall in inches
+    """
 
-mm = inches * 25.4
-return mm
+    mm = inches * 25.4
+    return mm
+
+# TODO(STEFAN): ADD SOMETHING ALREADY (caps)
